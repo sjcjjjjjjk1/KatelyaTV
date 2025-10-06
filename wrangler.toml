@@ -1,9 +1,0 @@
-name = "katelyatv"
-pages_build_output_dir = ".vercel/output/static"
-compatibility_date = "2025-10-06"
-compatibility_flags = ["nodejs_compat"]
-
-[[d1_databases]]
-binding = "DB"
-database_name = "katelyatv-db"
-database_id = "897736ea-9ded-42d5-9e03-db3811972fc9"
